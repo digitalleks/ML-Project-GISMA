@@ -4,3 +4,6 @@ As part of the requirements of ML505A course from GISMA School Of Applied Scienc
 
 FInd the details of the project here:  https://github.com/digitalleks/ML-Project-GISMA/blob/a78226af7d3aa6843473e5919390009f3095346e/Copy_of_M505_Project.html
 
+
+https://github.com/digitalleks/ML-Project-GISMA/Copy_of_M505_Project.html
+
